@@ -43,3 +43,6 @@ The purpose of this project is to transform raw HR data into interactive visual 
 
 ---
 Created as part of my Data Analytics learning journey.
+## Dashboard Demo
+
+[Click here to watch the HR Analytics Dashboard Demo](./Screen%20Recording%202026-11-24%20135516.mp4)
